@@ -13,6 +13,7 @@ namespace HelloWorld
             Console.BackgroundColor = ConsoleColor.White;
             Console.ForegroundColor = ConsoleColor.Red;
             Console.Clear();
+            Console.Write(Messages.Bienvenido);
             Console.Title = "My first Hello World App";
             Console.WriteLine("My first Hello World App on GitHub");
             Console.Read();
