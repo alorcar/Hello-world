@@ -68,5 +68,14 @@ namespace HelloWorld {
                 return ResourceManager.GetString("Bienvenido", resourceCulture);
             }
         }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to My first Hello World App.
+        /// </summary>
+        internal static string MyfirstHelloWorldApp {
+            get {
+                return ResourceManager.GetString("MyfirstHelloWorldApp", resourceCulture);
+            }
+        }
     }
 }
