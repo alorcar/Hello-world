@@ -120,4 +120,7 @@
   <data name="Bienvenido" xml:space="preserve">
     <value>Bienvenido</value>
   </data>
+  <data name="MyfirstHelloWorldApp" xml:space="preserve">
+    <value>My first Hello World App</value>
+  </data>
 </root>
